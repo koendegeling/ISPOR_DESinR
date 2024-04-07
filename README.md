@@ -1,6 +1,6 @@
 # ISPOR Discrete Event Simulation Short Course
 
-This is the repository for the short course on "Learning and Applying Discrete Event Simulation" by Hendrik Koffijberg (University of Twente, the Netherlands) and Koen Degeling (Lumen Value & Access, Unites States & The University of Melbourne, Australia) for the Professional Society for Health Economics and Outcomes Research (ISPOR).
+This is the repository for the short course on "Learning and Applying Discrete Event Simulation" by Hendrik Koffijberg (University of Twente, the Netherlands) and Koen Degeling (GSK, the Netherlands) for the Professional Society for Health Economics and Outcomes Research (ISPOR).
 
 The repository contains three important files that are used in demonstrating on how a discrete event simulation can be implemented and analyzed for the case study:
 
